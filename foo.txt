@@ -3,3 +3,6 @@ this is a new file
 here is another line
 
 This is a line I've added on github
+
+
+I made some changes to this file from another github account
